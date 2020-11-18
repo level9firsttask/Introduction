@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\blog\\management",
+    "\\blog\\management\\commands",
+    "\\blog\\templates",
+    "\\blog\\templates\\blog",
+    "\\django_project"
+  ],
+  "SelectedNode": "\\blog\\views.py",
+  "PreviewInSolutionExplorer": false
+}

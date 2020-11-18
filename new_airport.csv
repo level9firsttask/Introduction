@@ -1,0 +1,79 @@
+iata,icao,airport_name,location,gps
+POM,AYPY,Port Moresby International Airport,"['Saraga', ' Port Moresby']",9.44333�S 147.22000�E
+YEG,CYEG,Edmonton International Airport,"['Edmonton Metropolitan Region', ' Alberta']",53.31000�N 113.57944�W
+YHZ,CYHZ,Halifax Stanfield International Airport,"['Halifax', ' Nova Scotia']",44.87972�N 63.51028�W
+YOW,CYOW,Ottawa Macdonald�Cartier International Airport,['Ottawa�Gatineau'],45.32250�N 75.66722�W
+YUL,CYUL,Montr�al�Trudeau International Airport,['Greater Montreal'],45.47056�N 73.74083�W
+YVR,CYVR,Vancouver International AirportA�roport international de Vancouver,['Metro Vancouver'],49.19472�N 123.18389�W
+YWG,CYWG,Winnipeg James Armstrong Richardson International Airport,"['Winnipeg', ' Manitoba']",49.91000�N 97.24000�W
+YYC,CYYC,YYC Calgary International AirportA�roport international de Calgary YYC,"['Calgary', ' Alberta', ' Canada']",51.12250�N 114.01333�W
+YYJ,CYYJ,Victoria International Airport,"['Victoria', ' British Columbia']",48.64722�N 123.42583�W
+YYT,CYYT,St. John's International Airport,"[""St. John's"", ' Newfoundland and Labrador']",47.61861�N 52.75250�W
+YYZ,CYYZ,Lester B. Pearson International AirportA�roport international de Lester B. Pearson,['Greater Toronto'],43.67667�N 79.63056�W
+LOS,DNMM,Murtala Muhammed International Airport,['\nAero Contractors\nArik Air\nAzman Air\nMed-View Airline\nAir Peace\nDana Air\nIbom Air\n'],6.57722�N 3.32111�E
+BRU,EBBR,Brussels Airport,"['Zaventem', ' Flemish Brabant', ' Belgium']",50.90139�N 4.48444�E
+CRL,EBCI,Brussels South Charleroi Airport,"['Charleroi', ' Hainaut']",50.46000�N 4.45278�E
+SXF,"EDDB, ETBS",Berlin Sch�nefeld Airport,['Sch�nefeld'],52.37861�N 13.52056�E
+FRA,EDDF,Frankfurt Airport,"['Near Kelsterbach', ' Frankfurt']",50.03333�N 8.57056�E
+MUC,EDDM,Munich Airport,"['Munich', ' Germany']",48.35389�N 11.78611�E
+LEJ,EDDP,Leipzig/Halle Airport,['Leipzig and Halle'],51.42389�N 12.23639�E
+STR,EDDS,Stuttgart Airport,['Eurowings'],48.69000�N 9.22194�E
+TXL,EDDT,Berlin Tegel Airport,"['Reinickendorf borough', ' Berlin', ' Germany']",52.55972�N 13.28778�E
+HAJ,EDDV,Hannover Airport,['Langenhagen'],52.46083�N 9.68500�E
+FKB,EDSB,Karlsruhe/Baden-Baden Airport,['Ryanair'],48.77944�N 8.08056�E
+HEL,EFHK,Helsinki-Vantaa Airport,['Vantaa'],60.31722�N 24.96333�E
+MAN,EGCC,Manchester Airport,['Greater Manchester'],53.35389�N 2.27500�W
+CWL,EGFF,Cardiff Airport,['Cardiff'],51.39667�N 3.34333�W
+LPL,EGGP,Liverpool John Lennon Airport,"['Liverpool', ' England', ' UK']",53.33361�N 2.84972�W
+LTN,EGGW,London Luton Airport,"['London', ' United Kingdom']",51.87472�N 0.36833�W
+BOH,EGHH,Bournemouth Airport,"['Hurn', ' Dorset']",50.78000�N 1.84250�W
+LGW,EGKK,Gatwick Airport,"['Crawley', ' England', ' UK']",51.14806�N 0.19028�W
+LHR,EGLL,Heathrow Airport,['London'],51.47750�N 0.46139�W
+ABZ,EGPD,Aberdeen International Airport,['Aberdeen'],57.20250�N 2.19806�W
+EDI,EGPH,Edinburgh Airport,['Edinburgh'],55.95000�N 3.37250�W
+STN,EGSS,London Stansted Airport,['London and the East of England'],51.88500�N 0.23500�E
+EXT,EGTE,Exeter Airport,"['Clyst Honiton', ' Devon']",50.73444�N 3.41389�W
+AMS,EHAM,Amsterdam Airport Schiphol,"['Haarlemmermeer', ' North Holland']",52.30806�N 4.76417�E
+EIN,EHEH,Eindhoven Airport,"['Eindhoven', ' Netherlands']",51.45000�N 5.37444�E
+DUB,EIDW,Dublin Airport,"['Dublin', ' Ireland']",53.42139�N 6.27000�W
+SNN,EINN,Shannon Airport,"['Mid-West Region', ' Ireland']",52.70194�N 8.92472�W
+CPH,EKCH,"Copenhagen Airport, Kastrup","['Kastrup', ' T�rnby', ' Copenhagen', ' Denmark']",55.61806�N 12.65611�E
+BOO,ENBO,Bod� Airport,['Bod�'],67.26917�N 14.36528�E
+BGO,ENBR,"Bergen Airport, Flesland","['Flesland', ' Bergen', ' Vestland']",60.29361�N 5.21806�E
+OSL,ENGM,Oslo Airport,"['Gardermoen', ' Ullensaker', ' Viken']",60.20278�N 11.08389�E
+TOS,ENTC,"Troms� Airport, Langnes","['Langnes', ' Troms�ya', ' Troms�']",69.68139�N 18.91778�E
+SVG,ENZV,"Stavanger Airport, Sola","['Sola', ' Rogaland']",58.87667�N 5.63778�E
+ARN,ESSA,Stockholm Arlanda Airport,"['Sigtuna Municipality', ' Sweden']",59.65194�N 17.91861�E
+RIX,EVRA,Riga International Airport,"['Riga', ' Latvia']",56.92361�N 23.97111�E
+VNO,EYVI,Vilnius International Airport,"['Vilnius', ' Lithuania']",54.63694�N 25.28778�E
+TNR,FMMI,Ivato International Airport,"['4', '198\xa0ft / 1', '280\xa0m']",18.79694�S 47.47889�E
+MPM,FQMA,Maputo International Airport,['\nLAM Mozambique Airlines\nMo�ambique Expresso\n'],25.92083�S 32.57250�E
+CMN,GMMN,Mohammed V International Airport,['\nAir Arabia Maroc\nRoyal Air Maroc\nRoyal Air Maroc Express\n'],33.36722�N 7.58972�W
+SID,GVAC,Am�lcar Cabral International Airport,['\nCabo Verde Airlines\nCabo Verde Express\n'],16.74250�N 22.94806�W
+HRG,HEGN,Hurghada International Airport,['52\xa0ft / 16\xa0m'],27.17806�N 33.79917�E
+MBA,HKMO,Moi International Airport,['200\xa0ft / 61\xa0m'],4.04000�S 39.59000�E
+DAR,HTDA,Julius Nyerere International Airport,"['Julius K. Nyerere Road', ' Terminal II', ' Dar es Salaam', ' Tanzania']",6.87806�S 39.20278�E
+ABQ,KABQ,Albuquerque Regional Airport,['Albuquerque metropolitan area(Albuquerque�Santa Fe�Las Vegas CSA)'],35.039333�N 106.610778�W
+AGS,KAGS,Augusta Regional Airportat Bush Field,['144\xa0ft / 44\xa0m'],33.37000�N 81.96444�W
+AMA,KAMA,Rick HusbandAmarillo International Airport,"['3', '607\xa0ft / 1', '099.4\xa0m']",35.21944�N 101.70583�W
+ATL,KATL,Hartsfield�Jackson Atlanta International Airport,"['Atlanta', ' Georgia', ' U.S.']",33.63667�N 84.42806�W
+AUS,KAUS,Austin�Bergstrom International Airport,['Greater Austin'],30.19444�N 97.67000�W
+CTU,ZUUU,Chengdu Shuangliu International Airport,['\nAir China\nChengdu Airlines\nChina Eastern Airlines\nChina Southern Airlines\nLucky Air\nShenzhen Airlines\nSichuan Airlines\nTibet Airlines\n'],30.57833�N 103.94694�E
+URC,ZWWW,�r�mqi DiwopuInternational Airport,['\nChina Southern Airlines\nUrumqi Air\n'],43.90722�N 87.47417�E
+UNG,AYKI,Kiunga Airport,none,6.125667�S 141.282000�E
+TBG,AYTB,Moro Airport,none,5.27861�S 141.22583�E
+OLI,BIRF,Rif Airport,none,64.91111�N 23.81667�W
+NTG,ZSNT,Nantong Xingdong International Airport,['ZSNTLocation of airport in Jiangsu'],32.07083�N 120.97556�E
+BFW,DAOS,Sidi Bel Abb�s Airport,['BFWLocation of the airport in Algeria'],35.17222�N 0.59472�W
+XLU,DFCL,Leo Airport,none,11.105417�N 2.101611�W
+PUP,DFCP,P� Airport,none,11.179139�N 1.148472�W
+RCS,EGTO,Rochester Airport,['www.rochesterairport.co.uk'],51.35194�N 0.50278�E
+NNR,EICA,Connemara Airport,['70\xa0ft / 21\xa0m'],53.23056�N 9.46778�W
+UAL,FNUA,Villa Teixeira de Sousa Airport,none,10.71528�S 22.23056�E
+OTC,FTTL,Bol-Berim Airport,none,13.443528�N 14.739250�E
+LIX,FWLK,Likoma Airport,['www.visitlikomaisland.com'],12.07583�S 34.73722�E
+MYZ,FWMY,Monkey Bay Airport,['FWMYLocation of the airport in Malawi'],14.08333�S 34.91972�E
+None,VOBG,HAL Airport,none,12.95000�N 77.66833�E
+SBI,GUSB,Sambailo Airport,none,12.57500�N 13.36250�W
+TEN,ZUTR,Tongren Fenghuang Airport,none,27.88333�N 109.30889�E
+BDV,FZRB,Moba Airport,['BDVLocation of the airport in Democratic Republic of the Congo'],7.08472�S 29.73750�E

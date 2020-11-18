@@ -1,0 +1,11 @@
+<div>
+{% for i in airport %}
+    <ul>
+        <li>IATA = {{i.iata}}</li>
+        <li>ICAO = {{i.icao}}</li>
+        <li>Airport Name = {{i.airport_name}}</li>
+        <li>Location{{i.location}}</li>
+        <li>GPS {{i.gps}}</li>
+    </ul>
+{% endfor %}
+</div>
